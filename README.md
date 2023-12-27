@@ -18,3 +18,5 @@ scikit-learn==1.2.1
 torch==2.0.1
 statsmodels==0.14.0
 ```
+
+Branch ```v2023``` contains updated data of 2022 along with usage of ensemble models to further improve accuracy. Different voting strategies to combine the internal models of the ensemble models are tested in ```combining_models.ipynb```.
