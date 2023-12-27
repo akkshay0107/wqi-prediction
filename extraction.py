@@ -14,4 +14,4 @@ def extract_pdf(path, outpath, pages):
 
 
 if __name__ == "__main__":
-    extract_pdf("./data/pdf/2021_lake_data.pdf", "./data/csv/2021lake_data.csv", 32)
+    extract_pdf("./data/pdf/2022_lake_data.pdf", "./data/csv/2022_lake_data.csv", 55)
